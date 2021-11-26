@@ -1,4 +1,4 @@
-### Hi there, I'm Volt - aka [codeSTACKr][website] 👋 
+### Hi there, I'm Volt
 ## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
