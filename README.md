@@ -1,4 +1,4 @@
-#I am dumb 💫
+# I am dumb 💫
 
 
 ## 🌐 Socials:
