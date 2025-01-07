@@ -1,6 +1,6 @@
 <h1>HAROW HOOMANS</h1>
 <img src = "https://komarev.com/ghpvc/?username=volt-l18" />
-<img align="right" src = "https://media.tenor.com/gXwFEYckWzUAAAAi/anime.gif" /></br>
+<img align="right" src = "https://media.tenor.com/gXwFEYckWzUAAAAi/anime.gif" width="150" height="160"/></br>
 
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=volt-l18&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
