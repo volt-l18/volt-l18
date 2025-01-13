@@ -4,7 +4,7 @@
 
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=volt-l18&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-  &nbsp;<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=volt-l18&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=volt-l18&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 [![roadmap.sh](https://roadmap.sh/card/tall/678526c37dbe4fb02638d923?variant=dark)](https://roadmap.sh)
