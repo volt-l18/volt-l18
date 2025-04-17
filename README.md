@@ -1,4 +1,4 @@
-<h1>HAROW HOOMANS</h1>
+<h1>HELLO DUMBOS</h1>
 <img src = "https://komarev.com/ghpvc/?username=volt-l18" />
 <img align="right" src = "https://media.tenor.com/gXwFEYckWzUAAAAi/anime.gif" width="150" height="160"/></br>
 
